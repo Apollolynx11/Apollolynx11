@@ -1,3 +1,7 @@
+
+![Uploading coding gif1.gif…]()
+
+
 - 👋 Hi, I’m Lelo Bli.
 - 👀 I’m interested in cybersecurity.
 - 🌱 I’m currently learning data science.
