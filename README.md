@@ -1,5 +1,6 @@
 
-![Uploading coding gif1.gif…]()
+![coding gif1](https://github.com/user-attachments/assets/b20456bb-ba2c-472a-911d-cee6ac0ca7d1)
+
 
 
 - 👋 Hi, I’m Lelo Bli.
