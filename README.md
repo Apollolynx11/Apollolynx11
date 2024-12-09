@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👋 Hi, I’m Lelo, an IT student focused on Cybersecurity. I enjoy building projects that solve real-world challenges.<br><br>🔭 Currently working on: An app in the education sector.<br>🌱 Learning: Ethical hacking and data science,<br> 📫 Reach me at: Apollolynx12@outlook.com.<br>
+<br>👋 Hi, I’m Lelo, an IT student focused on Cybersecurity. I enjoy building projects that solve real-world challenges.<br><br>🔭 Currently working on: An app in the education sector.<br>🌱 Learning: Ethical hacking and data science.<br> 📫 Reach me at: Apollolynx12@outlook.com.<br>
 
 
 ## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/layan-albalwei-321164202/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Lelo_bli) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/lelo_bli) 
